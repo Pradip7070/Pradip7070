@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm Pradipp from RCPIT<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning AIML<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Pradipp from RCPIT<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning AIML<br>- ⚡ In my free time I like to explore new things
+</p>
 
 ###
 
